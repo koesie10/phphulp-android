@@ -1,2 +1,2 @@
-phphulp-android
+Android tutorial (PHPHulp)
 ===============
